@@ -1,9 +1,23 @@
 'use strict';
 
+console.log('arr' + ' - object');
 
-const category = 'toys';
+let incr = 10,
+	decr = 10;
 
-console.log(`https://someurl.com/${category}/5`);
+// incr++;
+// decr--;
+
+console.log(incr);
+console.log(decr);
+
+console.log(5%2);
+
+
+
+// const category = 'toys';
+
+// console.log(`https://someurl.com/${category}/5`);
 
 
 
